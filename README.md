@@ -1,16 +1,98 @@
-## Hi there 👋
+<h1 align="center">👋 Eai!<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=eduardo-amaro-maciel&label=&style=flat-square&color=blueviolet" /></h1>
+<br />
+Sou um estudante de Ciência da Computação construindo uma carreira como Analista de Dados. Tenho muito interesse por análise, organização de informações e extração de insights a partir de dados áreas que me motivam a estudar constantemente e buscar oportunidades na área.
 
-<!--
-**hizzui/hizzui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="rinseene@gmail.com">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
+        />
+    </a> 
+    <a href="https://www.linkedin.com/in/ryan-carlos-mendes-de-carvalho-a6b305223/">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
+        />
+    </a>
+    
+</p>
+
+<div align="center">
+
+<img 
+    alt="HTML"
+    title="HTML" 
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    alt="CSS" 
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    alt="React"
+    title="React" 
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    alt="PHP" 
+    title="PHP"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    alt="Git" 
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    alt="Python" 
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+</div>
+
+
+
+<br/>
+<br/>
+
