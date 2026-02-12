@@ -1,6 +1,6 @@
 <h1 align="center">👋 Eai!<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=eduardo-amaro-maciel&label=&style=flat-square&color=blueviolet" /></h1>
 <br />
-Sou um estudante de Ciência da Computação construindo uma carreira como Analista de Dados. Tenho muito interesse por análise, organização de informações e extração de insights a partir de dados áreas que me motivam a estudar constantemente e buscar oportunidades na área.
+Sou estudante de Ciência da Computação focado em desenvolvimento Back-End com Python. Tenho interesse em construção de APIs, modelagem de banco de dados e desenvolvimento de sistemas escaláveis. Atualmente estudando e desenvolvendo projetos com Django, FastAPI e PostgreSQL.
 
 <br />
 
