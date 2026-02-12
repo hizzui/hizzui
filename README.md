@@ -26,54 +26,46 @@ Sou um estudante de Ciência da Computação construindo uma carreira como Anali
 <div align="center">
 
 <img 
-    alt="HTML"
-    title="HTML" 
+    alt="Django" 
+    title="Django"
     width="30px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
+
 <img 
-    alt="CSS" 
-    title="CSS"
+    alt="FastAPI" 
+    title="FastAPI"
     width="30px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
 />
+
 <img 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Flask" 
+    title="Flask"
     width="30px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
 />
+
 <img 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+
 <img 
-    alt="React"
-    title="React" 
+    alt="MySQL" 
+    title="MySQL"
     width="30px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-<img 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    alt="PHP" 
-    title="PHP"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+
+
 <img 
     alt="Git" 
     title="Git"
