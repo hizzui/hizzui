@@ -33,12 +33,6 @@ Sou um estudante de Ciência da Computação construindo uma carreira como Anali
 <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
 
-/>
 
-</div>
-
-
-
-<br/>
 <br/>
 
