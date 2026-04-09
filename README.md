@@ -1,6 +1,6 @@
 <h1 align="center">👋 Eai!<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=eduardo-amaro-maciel&label=&style=flat-square&color=blueviolet" /></h1>
 <br />
-Sou estudante de Ciência da Computação focado em desenvolvimento Back-End com Python. Tenho interesse em construção de APIs, modelagem de banco de dados e desenvolvimento de sistemas escaláveis. Atualmente estudando e desenvolvendo projetos com Django, FastAPI e PostgreSQL.
+Desenvolvedor Fullstack e graduando em Ciência da Computação pela Estácio (2021-2027). Com mais de 2 anos de experiência na Defensoria Pública do Estado do Amazonas, possuo um background sólido em infraestrutura e administração de redes que sustenta minha atuação no desenvolvimento de software. Especialista na construção de interfaces com React e TypeScript, além de APIs escaláveis utilizando Python (Django/FastAPI) e Java (Spring Boot). Focado em boas práticas de engenharia, modelagem de dados com PostgreSQL e otimização de fluxos operacionais.
 
 <br />
 
