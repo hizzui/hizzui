@@ -6,7 +6,7 @@ I am a <b>Python Backend Developer</b> and Computer Science student at Estácio 
 </p>
 
 <p>
-My primary focus is designing scalable, high-performance RESTful APIs and backend architectures using <b>Python, FastAPI, and Django</b>. I am highly proficient in relational database modeling with <b>PostgreSQL</b>, implementing asynchronous programming, caching strategies, and applying software engineering best practices.
+My primary focus is designing scalable, high-performance RESTful APIs and backend architectures using <b>Python, FastAPI, and Django</b>. I am highly proficient in relational database modeling with <b>PostgreSQL</b>, implementing asynchronous programming, and applying software engineering best practices.
 </p>
 
 <br />
@@ -40,7 +40,6 @@ My primary focus is designing scalable, high-performance RESTful APIs and backen
   <img alt="FastAPI" title="FastAPI" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
   <img alt="Django" title="Django" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
   <img alt="PostgreSQL" title="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-  <img alt="Redis" title="Redis" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/>
   <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img alt="TypeScript" title="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 </div>
