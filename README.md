@@ -2,11 +2,11 @@
 <br />
 
 <p>
-I am a <b>Python Backend Developer</b> and Computer Science student at Estácio (2021-2027)[cite: 40]. With over 2 years of experience managing enterprise IT infrastructure and network security at the Public Defender's Office of Amazonas [cite: 19, 27], I leverage a solid understanding of systems availability and data architecture to engineer robust software solutions[cite: 19, 21, 32].
+I am a <b>Python Backend Developer</b> and Computer Science student at Estácio (2021-2027). With over 2 years of experience managing enterprise IT infrastructure and network security at the Public Defender's Office of Amazonas, I leverage a solid understanding of systems availability and data architecture to engineer robust software solutions.
 </p>
 
 <p>
-My primary focus is designing scalable, high-performance RESTful APIs and backend architectures using <b>Python, FastAPI, and Django</b>[cite: 20]. I am highly proficient in relational database modeling with <b>PostgreSQL</b> [cite: 20, 21, 23], implementing asynchronous programming , caching strategies, and applying software engineering best practices[cite: 21, 24].
+My primary focus is designing scalable, high-performance RESTful APIs and backend architectures using <b>Python, FastAPI, and Django</b>. I am highly proficient in relational database modeling with <b>PostgreSQL</b>, implementing asynchronous programming, caching strategies, and applying software engineering best practices.
 </p>
 
 <br />
