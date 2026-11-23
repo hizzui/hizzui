@@ -24,7 +24,7 @@ I currently work as a Data & Automation Intern at the <b>Regional Labor Court of
   <img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img alt="Pandas" title="Pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
   <img alt="FastAPI" title="FastAPI" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
-  <img alt="SQLite" title="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+  <img alt="SQLite" title="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
   <img alt="Google Cloud" title="Google Cloud" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
   <img alt="Azure" title="Azure" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
   <img alt="Linux" title="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
